@@ -2,7 +2,7 @@
 
 Implementation simple api Rest using Nest.js.
 
-[Access Online](https://https://simple-api-auth.herokuapp.com/docs)
+[Access Online](https://simple-api-auth.herokuapp.com/docs)
 
 ## Development
 
