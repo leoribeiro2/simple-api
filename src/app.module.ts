@@ -13,8 +13,8 @@ const options: any = {
 
 if (process.env.NODE_ENV === 'production') {
   options.auth = {
-    user: process.env.MONGO_USER || '',
-    pass: process.env.MONGO_PASS || '',
+    user: process.env.MONGO_USER,
+    pass: process.env.MONGO_PASS,
   };
 }
 
