@@ -9,10 +9,10 @@ const mongoDatabase = process.env.MONGO_DATABASE || 'simple-api';
 const options = {
   useNewUrlParser: true,
   createIndexes: true,
-  /* auth: {
+  auth: {
     user: process.env.MONGO_USER || '',
     pass: process.env.MONGO_PASS || '',
-  }, */
+  },
 };
 
 @Module({
