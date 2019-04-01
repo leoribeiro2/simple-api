@@ -37,7 +37,9 @@
     "rimraf": "^2.6.2",
     "rxjs": "^6.3.3",
     "swagger-ui-express": "^4.0.2",
-    "ts-node": "^7.0.1"
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.4",
+    "tsconfig-paths": "^3.7.0"
   },
   "devDependencies": {
     "@nestjs/testing": "^6.0.4",
@@ -50,9 +52,7 @@
     "prettier": "^1.15.3",
     "supertest": "^3.4.1",
     "ts-jest": "^23.10.5",
-    "tsconfig-paths": "^3.7.0",
-    "tslint": "5.12.1",
-    "typescript": "^3.2.4"
+    "tslint": "5.12.1"
   },
   "jest": {
     "moduleFileExtensions": [
