@@ -1,8 +1,8 @@
 {
   "name": "simple-api",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "version": "1.0.0",
+  "description": "Implementation simple api Rest using Nest.js.",
+  "author": "Leonardo Ribeiro <contato@leoribeiroweb.com.br>",
   "license": "MIT",
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
